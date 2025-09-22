@@ -1,0 +1,773 @@
+body {
+    background-color: beige;
+}
+
+
+.header {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #fff2d4 !important;
+}
+
+.logo {
+    height: 60px;
+    width: auto;
+}
+
+#topbar a {
+    color: #672509;
+    margin-left: 30px;
+}
+
+@font-face {
+    font-family: "Tan Meringue";
+    src: url("../fonts/TAN\ MERINGUE.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Canva sans";
+    src: url("../fonts/canva-sans-regular.otf") format("opentype");
+}
+
+.titulo_tan {
+    font-family: "Tan Meringue", sans-serif;
+    color: #bb8550;
+    font-size: 90px;
+}
+
+
+#bienvenidos1 {
+    padding-top: 100px;
+    padding-bottom: 40px;
+}
+
+#bienvenidos1 p {
+    font-family: "Canva sans", serif;
+    font-size: 25px;
+}
+
+#bienvenidos2 h1 {
+    font-family: "Tan Meringue", sans-serif;
+    color: #3b1010;
+    font-size: 70px;
+    padding-top: 320px;
+    padding-left: 700px;
+}
+
+
+#bienvenidos2 {
+    background: url(../img/backgroundmanobebida.png);
+    background-size: cover;
+    position: center;
+    height: 900px;
+}
+
+
+.imagen {
+    height: 700px;
+    width: auto;
+}
+
+.imagen2 {
+    height: 800px;
+    width: auto;
+}
+
+.imagen3 {
+    height: 550px !important;
+    width: auto !important;
+}
+
+.imagen4 {
+    height: 500px;
+    width: auto;
+}
+
+
+#drinksoftheweek {
+    padding-top: 30px;
+    padding-bottom: 90px;
+}
+
+#drinksoftheweek p {
+    font-family: "Canva sans", serif;
+    font-size: 25px;
+}
+
+.matcha-btn {
+    background-color: #a2b55e;
+    color: white;
+    border: none;
+    border-radius: 50px;
+    padding: 12px 30px;
+    font-size: 30px;
+    font-family: "Tan Meringue", cursive;
+}
+
+.taro-btn {
+    background-color: #c1a8e8;
+    color: white;
+    border: none;
+    border-radius: 50px;
+    padding: 12px 30px;
+    font-size: 30px;
+    font-family: "Tan Meringue", cursive;
+}
+
+.chai-btn {
+    background-color: #b17948;
+    color: white;
+    border: none;
+    border-radius: 50px;
+    padding: 12px 30px;
+    font-size: 30px;
+    font-family: "Tan Meringue", cursive;
+}
+
+#drinksoftheweek h2 {
+    font-family: "Tan Meringue", sans-serif;
+    font-size: 40px;
+}
+
+.matcha_boton_texto {
+    color: #a2b55e;
+}
+
+.taro_boton_texto {
+    color: #c1a8e8;
+}
+
+.chai_boton_texto {
+    color: #b17948;
+}
+
+.footer {
+    background-color: #fff2d4;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+
+.cafecito {
+    color: #3b1010;
+}
+
+.cafecito_medio {
+    color: #a35b3d;
+}
+
+
+
+
+
+
+.headerdos {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #b17948 !important;
+}
+
+
+.fondoabout {
+    background-color: #fff2d4;
+}
+
+.centrado {
+    text-align: center !important;
+}
+
+.titulo_tandos {
+    font-family: "Tan Meringue", sans-serif;
+    color: #3b1010;
+    font-size: 90px;
+}
+
+.topbar_dos {
+    color: #fff2d4;
+}
+
+#aboutus1 {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.logo_dos {
+    height: 65px;
+    width: auto;
+}
+
+.imagen_grupal {
+    padding-top: 30px;
+    height: 600px;
+    width: auto;
+    text-align: center;
+}
+
+#aboutus2 {
+    padding-top: 100px;
+    padding-bottom: 40px;
+}
+
+.fotos_equipo {
+    border-radius: 1000px;
+    height: 300px;
+    width: auto;
+}
+
+.espacios {
+    padding-top: 50px;
+
+}
+
+.espacios_abajo {
+    padding-bottom: 50px;
+}
+
+.subtitulo_tan {
+    font-family: "Tan Meringue", sans-serif;
+    color: #3b1010;
+    font-size: 40px;
+}
+
+.cuerpo_texto {
+    font-family: "Canva sans", serif;
+    font-size: 15px;
+}
+
+.footerdos {
+    background-color: #b17948 !important;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+
+.footer_blanco {
+    color: white;
+}
+
+.tan_cuerpo {
+    font-family: "Canva sans", serif;
+    font-size: 25px;
+    color: #a35b3d;
+}
+
+.tan_cuerpodos {
+    font-family: "Canva sans", serif;
+    font-size: 20px;
+    color: #3b1010;
+}
+
+.padding_texto {
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+
+
+
+
+#dowone {
+    padding-top: 150px;
+    padding-bottom: 150px;
+}
+
+.matchatypo {
+    font-family: "Tan Meringue", sans-serif;
+    color: #274d07;
+    font-size: 80px !important;
+}
+.matchatypotwo{
+    font-family: "Tan Meringue", sans-serif;
+    color: #274d07;
+    font-size: 100px !important;
+}
+
+#dowtwo {
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background-color: #54750d;
+}
+
+.matchatypowhite {
+    font-family: "Tan Meringue", sans-serif;
+    color: #f9f1db;
+    font-size: 150px;
+}
+
+.smalltypo {
+    font-size: 90px;
+    font-family: "Tan Meringue", sans-serif;
+    color: #f9f1db;
+}
+
+.body_white {
+    font-family: "Canva sans", serif;
+    font-size: 20px;
+    color: #f9f1db;
+}
+
+.body_dark {
+    font-family: "Canva sans", serif;
+    font-size: 15px;
+    color: #3b1010;
+    
+
+}
+
+
+
+.card {
+    background-color: #f9f1db !important;
+    font-family: "Canva sans", serif;
+    color: #193105 !important;
+    border-radius: 30px !important;
+    font-weight: 25px;
+    padding: 20px;
+}
+
+.icon {
+    width: auto;
+    height: auto;
+    padding-left: 60px;
+    padding-right: 60px;
+}
+
+.icondos {
+    width: auto;
+    height: auto;
+    padding-left: 80px;
+    padding-right: 80px;
+}
+
+#dowthree {
+    padding-top: 100px;
+    padding-bottom: 20px;
+    background-color: #f9f1db   ;
+}
+
+.imagen_fondo{
+    background-image: url(../img/prepa.png);
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-position:center;
+    padding-top: 700px !important;
+   
+ 
+   
+}
+
+.margen_letras{
+    padding-left: 20px !important;
+ 
+}
+
+.margen_pasos{
+    padding-top: 40px;
+}
+
+.smalltypotwo{
+    font-size: 60px;
+    font-family: "Tan Meringue", sans-serif;
+    color: #f9f1db;
+}
+
+.body_whitetwo {
+    font-family: "Canva sans", serif;
+    font-size: 15px;
+    color: #f9f1db !important;
+    
+}
+
+.subtitulos_white{
+    font-family: "Tan Meringue", sans-serif !important;
+    font-size: 25px;
+    color: #f9f1db !important;
+    
+}
+
+.margen_texto{
+    
+    padding-top: 40px !important;
+    padding-bottom: 100px !important;
+
+}
+
+.margen_letrasdos{
+    padding-left: 83px !important;
+}
+
+
+#dowfour {
+    padding-top: 150px;
+    padding-bottom: 150px;
+    ;
+
+}
+
+.taro_title{
+    font-family: "Tan Meringue", sans-serif;
+    color: #3b0465;
+    font-size: 80px !important;
+}
+
+#dowfive {
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background-color: #a570d0;
+}
+
+.imagen_fondotaro{
+    background-image: url(../img/taro_prep.png);
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-position:center;
+    padding-top: 700px !important;
+   
+}
+
+.margen_textodos{
+    
+    padding-top: 10px !important;
+    padding-bottom: 200px !important;
+
+}
+
+.tarotypo {
+    font-family: "Tan Meringue", sans-serif;
+    color:#3b0465;
+    font-size: 80px !important;
+}
+.tarotypotwo{
+    font-family: "Tan Meringue", sans-serif;
+    color:#3b0465;
+    font-size: 100px !important;
+}
+
+.margen_letrastres{
+    padding-left: 60px !important;
+}
+
+.margen_letrascuatro{
+    padding-left: 30px !important;
+}
+
+.chai_title{
+    font-family: "Tan Meringue", sans-serif;
+    color: #b17948;
+    font-size: 80px !important;
+}
+
+#dowsix {
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background-color:#bb8550;
+}
+
+.chaitypo {
+    font-family: "Tan Meringue", sans-serif;
+    color:#894824;
+    font-size: 80px !important;
+}
+.chaitypotwo{
+    font-family: "Tan Meringue", sans-serif;
+    color:#894824;
+    font-size: 100px !important;
+}
+
+.icon_chai{
+    width: auto;
+    height: auto;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.imagen_fondochai{
+    background-image: url(../img/chai_prep.png);
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-position:center;
+    padding-top: 750px !important;
+   
+}
+
+.margen_letrascinco{
+    padding-left: 45px !important;
+}
+
+#weeklyrecipes {
+    background-color: #fffdef;
+    padding: 130px;
+}
+
+.titulo_tanverde {
+    font-family: "Tan Meringue", sans-serif;
+    color: #587200;
+    font-size: 90px;
+}
+
+#bbmatcha h1 {
+    padding-top: 120px;
+}
+
+#bbmatcha {
+    padding-bottom: 50px;
+    background-color: #dde8b2;
+}
+
+.card_bbmatcha {
+    background-color: #a2b55e;
+    border-radius: 20px;
+    padding: 40px;
+}
+
+.imagenmatcha {
+    height: 900px;
+    width: auto;
+}
+
+.texto_blanco {
+    color: white;
+}
+
+
+#cmtaro {
+    padding-bottom: 50px;
+    background-color: #744cb0;
+}
+
+#cmtaro h1 {
+    padding-top: 120px;
+}
+
+.titulo_tanblanco {
+    font-family: "Tan Meringue", sans-serif;
+    color: white;
+    font-size: 90px;
+}
+
+
+.tan_cuerpotres {
+    font-family: "Canva sans", serif;
+    font-size: 20px;
+    color: white;
+}
+
+
+.card_cmtaro {
+    background-color: #ae89e5;
+    border-radius: 20px;
+    padding: 40px;
+}
+
+
+#vchai {
+    padding-bottom: 50px;
+    background-color: #d4b38f;
+}
+
+#vchai h1{
+    padding-top: 120px;
+}
+
+.titulo_tanchai {
+    font-family: "Tan Meringue", sans-serif;
+    color: #672509;
+    font-size: 90px;
+}
+
+.card_vchai {
+    background-color: #a35b3d;
+    border-radius: 20px;
+    padding: 40px;
+}
+
+
+.footer_verde {
+    background-color: #dde8b2 !important;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+
+.copy_verde {
+    color: #6e8f00;
+}
+
+.verde_moho {
+    color: #3d4b0c;
+}
+
+.headertres {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #dde8b2 !important;
+}
+
+#opinions {
+    padding-top: 120px;
+    padding-bottom: 50px;
+    background-color: white
+}
+
+.card_review {
+    background-color: #bb8550;
+    border-radius: 20px;
+    padding: 40px;
+}
+
+.iconos_review {
+    font-size: 80px;
+    color: #7a3e25;
+}
+
+.font_review {
+    font-family: "Tan Meringue", sans-serif;
+    color: white;
+    font-size: 25px;
+}
+
+.margen_interno_columna {
+    padding-top: 60px;
+    padding-bottom: 60px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.margen_externo_columna {
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.estrella {
+    color: white;
+}
+
+.tan_cuerpocuatro {
+    font-family: "Canva sans", serif;
+    font-size: 20px;
+    color: white;
+}
+
+.padding_review {
+    padding-top: 10px;
+}
+
+#comments {
+    padding-bottom: 70px;
+}
+
+#escribe {
+    background-color: #b17948;
+    padding: 80px;
+}
+
+#escribe button {
+    background-color: white;
+    padding: 15px;
+    margin-bottom: 8px;
+    border: none;
+    color: #3b1010;
+}
+
+#escribe label {
+    color: white;
+}
+
+
+.review_cafe {
+    background-color: #7a3e25;
+    border-radius: 200px;
+    align-items: center;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    padding-left: 150px !important;
+    padding-right: 150px !important;
+}
+
+
+.titulo_tanreview {
+    font-family: "Tan Meringue", sans-serif;
+    color: white;
+    font-size: 50px;
+    align-items: center !important;
+}
+
+.tsitp{
+    height: 70px;
+    width: auto;
+    padding-right: 10px;
+}
+
+.imagen_uno{
+    background-image: url(../img/vasito1.png);
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-position:center;
+    padding-top: 550px !important;
+    padding-bottom: 200px;
+  
+}
+
+.imagen_dos{
+    background-image: url(../img/vasito2.png);
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-position:center;
+    padding-top: 550px !important;
+    padding-bottom: 200px;
+  
+}
+
+.imagen_tres{
+    background-image: url(../img/vasito3.png);
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-position:center;
+    padding-top: 450px !important;
+    padding-bottom: 350px;
+  
+}
+
+.imagen_ben{
+    background-image: url(../img/Ben_match.png);
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-position:center;
+    width:auto ;
+    height: auto;
+  
+}
+
+.imagen_bendos{
+    background-image: url(../img/BEN_taro.png);
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-position:center;
+    width:auto ;
+    height: auto;
+  
+}
+
+.imagen_bentres{
+    background-image: url(../img/ben_chai.png);
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-position:center;
+    width:auto ;
+    height: auto;
+  
+}
+
+.imagen_fondotarobg {
+    background-image: url(../img/taro_prep.png);
+    background-size:contain;
+    background-repeat:no-repeat;
+    background-position:center;
+    width:auto;
+    height: auto;
+    
+    
+   
+}
+
+#dowseven {
+    padding-top: 150px;
+    padding-bottom: 150px;
+}
